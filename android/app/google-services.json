@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "759326253541",
+    "project_id": "helpsystem-2bab4",
+    "storage_bucket": "helpsystem-2bab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759326253541:android:d0111d0a0c0dcad9144f0c",
+        "android_client_info": {
+          "package_name": "com.systemhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759326253541-qrgmk1htj6r2n0n5fi8sfj85nikqpjbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Xxx-AbsoM9rPRLw0kSWV0JzDS2r1o1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759326253541-qrgmk1htj6r2n0n5fi8sfj85nikqpjbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "759326253541-crk2m1dr2sdgff1i1uj4fpvneop0r4cf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.systemhelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
